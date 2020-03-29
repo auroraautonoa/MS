@@ -8,4 +8,4 @@
 
 4.zad: What is the maximum of column num?
 
-5.zad:
+5.zad: Create a new column called "diff". This column returns 1 if column num > column num2 and 0 if it does not. What is the sum of column diff?
